@@ -1,6 +1,5 @@
 Project: Grassland ecosystem simulation
-Authors: Michael Kölling, David J. Barnes,
-         Andras Horvath (k19017476) and Jan Marczak (k19029774).
+Authors: Andras Horvath (k19017476) and Jan Marczak (k19029774).
 
 A predator-prey simulation involving six wolves, coyotes, rats
 frogs, rabbits and grasshoppers in their somewhat natural habitat.
