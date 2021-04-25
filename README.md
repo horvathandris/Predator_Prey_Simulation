@@ -1,5 +1,7 @@
-Project: Grassland ecosystem simulation
-Authors: Andras Horvath (k19017476) and Jan Marczak (k19029774).
+# Grassland ecosystem simulation
+
+## Authors:
+Jan Marczak & Andras Horvath
 
 A predator-prey simulation involving six wolves, coyotes, rats
 frogs, rabbits and grasshoppers in their somewhat natural habitat.
@@ -10,7 +12,8 @@ The animals can be either carnivores such as wolves, coyotes, rats, frogs and ea
 or herbivores like rabbits, grasshoppers and be dependent on plants. 
 
 
-How to start:
+### Running Instructions
+
     1) Create a Simulator object.
     Then call one of:
         + simulateOneStep - for a single step.
@@ -19,3 +22,5 @@ How to start:
         
     2) Call static method void main(String[] args) from StartSimulation class
        to run a long simulation.
+
+
