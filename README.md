@@ -1,6 +1,6 @@
 # Grassland ecosystem simulation
 
-A predator-prey simulation involving wolves, coyotes, rats
+A predator-prey simulation involving wolves, coyotes, rats,
 frogs, rabbits and grasshoppers in their somewhat natural habitat.
 In a simplified manner they age, get hungry, eat, move, breed, 
 react to external factors that are currently happening and die from various reasons.
