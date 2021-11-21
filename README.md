@@ -9,7 +9,7 @@ The animals can be either carnivores such as wolves, coyotes, rats, frogs and ea
 or herbivores like rabbits, grasshoppers and be dependent on plants. 
 
 ## Authors:
-Jan Marczak & Andras Horvath
+Andras Horvath & Jan Marczak
 
 ### Running Instructions
 
